@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- The first language: Python
+- The first language: Python (TensorFlow / Pytorch)
 - The first language in my work: C / C++
 - Now I'm studying in C#, HTML, CSS, JavaScript ...
 
