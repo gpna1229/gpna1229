@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - The first language: Python
-- The first language in my work: C
+- The first language in my work: C / C++
 - Now I'm studying in C#, HTML, CSS, JavaScript ...
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/annaduen?ext=heatmap)
