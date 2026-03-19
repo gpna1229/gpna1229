@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-The first language: Python
-The first language in my work: C
-Now I'm studying in C#, HTML, CSS, JavaScript ...
+- The first language: Python
+- The first language in my work: C
+- Now I'm studying in C#, HTML, CSS, JavaScript ...
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/annaduen?ext=heatmap)
 
