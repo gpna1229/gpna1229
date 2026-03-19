@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+The first language: Python
+The first language in my work: C
+Now I'm studying in C#, HTML, CSS, JavaScript ...
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/annaduen?ext=heatmap)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpna1229)](https://github.com/anuraghazra/github-readme-stats)
