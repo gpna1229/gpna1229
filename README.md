@@ -1,4 +1,4 @@
-## I'm from New Taipei. Graduated from NTU CSIE. 👋
+## I'm from New Taipei. Graduated from NTU CSIE. 🇹🇼
 
 <!--
 **gpna1229/gpna1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
