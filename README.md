@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 - The first language in my work: C / C++
 - Now I'm studying in C#, HTML, CSS, JavaScript ...
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/annaduen?ext=heatmap)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpna1229)](https://github.com/anuraghazra/github-readme-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/gpna1229?ext=heatmap)
